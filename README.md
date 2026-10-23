@@ -1,6 +1,6 @@
 <div align="center">
 
-![Mihail Charilaou — animated engineering banner](./assets/banner.svg)
+![Mihail Charilaou — animated engineering banner](./banner.svg)
 
 **Building intelligent software, reliable tools, and systems that connect the physical and digital worlds.**
 
