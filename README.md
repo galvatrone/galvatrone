@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/galvatrone -->
 <div align="center">
 
-# Mikhail Charilaou
+# Mihail Charilaou
 
 ### Software Engineering · AI Systems · Low-Level Programming
 
