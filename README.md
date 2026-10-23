@@ -1,16 +1,13 @@
-<!-- Profile README for github.com/galvatrone -->
 <div align="center">
 
-# Mihail Charilaou
-
-### Software Engineering · AI Systems · Low-Level Programming
+![Mihail Charilaou — animated engineering banner](./assets/banner.svg)
 
 **Building intelligent software, reliable tools, and systems that connect the physical and digital worlds.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-galvatrone-181717?style=for-the-badge&logo=github)](https://github.com/galvatrone)
-![C++](https://img.shields.io/badge/C++-Systems-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Networking-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-galvatrone-181717?style=flat-square&logo=github)](https://github.com/galvatrone)
+![C++](https://img.shields.io/badge/C++-Systems-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Networking-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Development-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
